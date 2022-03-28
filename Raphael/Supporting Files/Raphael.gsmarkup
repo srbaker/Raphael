@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE gsmarkup>
+<gsmarkup>
+  <objects>
+    <window title="Raphael" closable="no" autosaveName="main">
+      <vbox>
+	<label>Hello, world!</label>
+      </vbox>
+    </window>
+  </objects>
+</gsmarkup>
