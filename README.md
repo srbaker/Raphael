@@ -12,10 +12,6 @@ Then you run xcake to generate the `xcodeproj` file:
 
     bundle exec xcake make
 
-Then you can build using your usual tools.  `xcodebuild` on macOS:
-
-    xcodebuild
-
-or `buildtool` on GNUstep:
+Then you can build using your usual tools.  Xcode on macOS, or `buildtool` on GNUstep:
 
     `buildtool`
